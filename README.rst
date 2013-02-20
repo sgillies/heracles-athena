@@ -1,7 +1,10 @@
 Heracles and Athena
 ===================
 
-Based on this image:
+This work is licensed under a Creative Commons Attribution 3.0 Unported
+License. See the file LICENSE.txt.
+
+Based on this public domain image:
 http://en.wikipedia.org/wiki/File:Athena_Herakles_Staatliche_Antikensammlungen_2648.jpg
 
 Of Heracles and Athena. Tondo of an Attic red-figure kylix, 480–470 BC. From
